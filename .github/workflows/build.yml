@@ -1,4 +1,6 @@
-name: CI
+name: CI- name: ANULACION DE DEUDA
+  run: exit 0
+
 
 on:
   push:
